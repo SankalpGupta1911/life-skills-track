@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Service oriented architecture (SOA) is an architectural approach in which we use services from third-party service providers without reinventing it ourselves as parts of various components and integrate these components as per our requirement to serve a bigger purpose or provide a high level collaborated/integrated service. SOA allows users to combine a large number of facilities from existing services to form applications.
+Service-oriented architecture (SOA) is an architectural approach in which we use services from third-party service providers without reinventing it ourselves as parts of various components and integrate these components as per our requirement to serve a bigger purpose or provide a high level collaborated/integrated service. SOA allows users to combine a large number of facilities from existing services to form applications.
 SOA imbibes few design principles like interoperability and loose coupling to provide means for integrating components into a coherent and decentralized system. 
 
 ### Some examples of SOA
@@ -15,7 +15,6 @@ SOA imbibes few design principles like interoperability and loose coupling to pr
 ### Components of SOA
 ![Image Logo](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-248.png)
 
-****
 
 ### Few Important terms to understand SOA better:
 **Service Orchestration**
@@ -27,7 +26,6 @@ An important interaction pattern in which the coordinated interaction of service
 **ESB**
 An enterprise service bus (ESB) is software that you can use when communicating with a system that has multiple services. It establishes communication between services and service consumers no matter what the technology. An ESB provides communication and transformation capabilities through a reusable service interface. The ESB is a centralized service that routes service requests to the appropriate service. It converts request into a format that is acceptable by the service’s underlying platform and programing language.
 
-*****
 
 
 
@@ -50,7 +48,6 @@ The code logics or implementation details are unknown to the service consumers. 
 Services in SOA should have an appropriate size and scope, ideally packing one discrete
 business function per service. Developers can then use multiple services to create a composite service for performing complex operations.
 
-****
 
 ## Advantages/Benefits of Service oriented architecture
 
@@ -81,7 +78,6 @@ Services are independent of each other, so they can be used by multiple applicat
 9. **Platform independence:**
 Services communicate with other applications through common language which means it is independent of the platform on which application is running. Services can provide API in different languages e.g. PHP, JavaScript etc.
 
-****
 
 ## Disadvantages of Service Oriented Architecture
 
@@ -94,7 +90,6 @@ SOA is expensive in terms of human resource, development, and technology.
 3. **High bandwidth server:**
 As some web services send and receive messages and information frequently so they easily reach to a point of a million requests per day. So it requires a high-speed server with a lot of data bandwidth to run a web service.
 
-****
 
 ## Limitations in implementing service-oriented architecture
 
@@ -107,7 +102,6 @@ Service-oriented architecture (SOA) systems can become more complex over time an
 * **Single point of failure**
 For SOA implementations with an ESB, the ESB creates a single point of failure. It is a centralized service, which goes against the idea of decentralization. Clients and services cannot communicate with each other at all if the ESB goes down.
 
-****
 
 **References:**
 
