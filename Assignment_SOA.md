@@ -106,7 +106,7 @@ For SOA implementations with an ESB, the ESB creates a single point of failure. 
 **References:**
 
 
-* https://www.geeksforgeeks.org/service-oriented-architecture/
+* [Geeks for geeks](https://www.geeksforgeeks.org/service-oriented-architecture/)
 * https://www.itrelease.com/2018/10/advantages-and-disadvantages-of-service-oriented-architecture-soa/
 * https://aws.amazon.com/what-is/service-oriented-architecture/#:~:text=Service%2Doriented%20architecture%20(SOA),other%20across%20platforms%20and%20languages.
 * https://www.youtube.com/watch?v=sN6ku58fGF4
