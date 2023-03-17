@@ -2,11 +2,11 @@
 
 ## 1. How to Learn Faster with the Feynman Technique
 
->'If we cannot explain it simply, then we don't understand it well enough' 
+'If we cannot explain it simply, then we don't understand it well enough' 
 
 This quote (which is often attributed to Albert Einstien) when reversed, reveals a vital advice that can be key to enhancing the learning process for any individual.
 
->' If we want to learn something well enough, we should try to explain it '
+' If we want to learn something well enough, we should try to explain it '
 
 ### **Feynman Technique**
 
